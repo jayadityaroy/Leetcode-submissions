@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0846-hand-of-straights](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0846-hand-of-straights) |
+| [1053-previous-permutation-with-one-swap](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1053-previous-permutation-with-one-swap) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 ## Hash Table
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0846-hand-of-straights](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0846-hand-of-straights) |
+| [1053-previous-permutation-with-one-swap](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1053-previous-permutation-with-one-swap) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 ## Sorting
 |  |
