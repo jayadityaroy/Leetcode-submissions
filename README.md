@@ -10,11 +10,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0763-partition-labels](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0846-hand-of-straights) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 ## Greedy
 |  |
 | ------- |
+| [0763-partition-labels](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0763-partition-labels) |
 | [0846-hand-of-straights](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0846-hand-of-straights) |
 | [1053-previous-permutation-with-one-swap](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1053-previous-permutation-with-one-swap) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -23,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0846-hand-of-straights](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0846-hand-of-straights) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0763-partition-labels](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0763-partition-labels) |
+## String
+|  |
+| ------- |
+| [0763-partition-labels](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0763-partition-labels) |
 <!---LeetCode Topics End-->
