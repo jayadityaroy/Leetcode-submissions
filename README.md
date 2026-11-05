@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
 | [0846-hand-of-straights](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0846-hand-of-straights) |
 | [1053-previous-permutation-with-one-swap](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1053-previous-permutation-with-one-swap) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -54,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0767-reorganize-string](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0767-reorganize-string) |
 | [1405-longest-happy-string](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1405-longest-happy-string) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
