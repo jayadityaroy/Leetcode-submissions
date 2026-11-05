@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0846-hand-of-straights) |
 | [1053-previous-permutation-with-one-swap](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1053-previous-permutation-with-one-swap) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [2574-left-and-right-sum-differences](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,4 +64,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
+| [2574-left-and-right-sum-differences](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
