@@ -28,12 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1400-construct-k-palindrome-strings](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1400-construct-k-palindrome-strings) |
 | [1405-longest-happy-string](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1405-longest-happy-string) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1433-check-if-a-string-can-break-another-string) |
 ## Sorting
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0846-hand-of-straights) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1433-check-if-a-string-can-break-another-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0984-string-without-aaa-or-bbb](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0984-string-without-aaa-or-bbb) |
 | [1400-construct-k-palindrome-strings](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1400-construct-k-palindrome-strings) |
 | [1405-longest-happy-string](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1405-longest-happy-string) |
+| [1433-check-if-a-string-can-break-another-string](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1433-check-if-a-string-can-break-another-string) |
 ## Counting
 |  |
 | ------- |
