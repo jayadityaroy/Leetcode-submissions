@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-construct-k-palindrome-strings](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1400-construct-k-palindrome-strings) |
 | [1405-longest-happy-string](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1405-longest-happy-string) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1433-check-if-a-string-can-break-another-string) |
+| [1754-largest-merge-of-two-strings](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1754-largest-merge-of-two-strings) |
 ## Sorting
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0763-partition-labels](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0763-partition-labels) |
+| [1754-largest-merge-of-two-strings](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1754-largest-merge-of-two-strings) |
 ## String
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1400-construct-k-palindrome-strings](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1400-construct-k-palindrome-strings) |
 | [1405-longest-happy-string](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1405-longest-happy-string) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1433-check-if-a-string-can-break-another-string) |
+| [1754-largest-merge-of-two-strings](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1754-largest-merge-of-two-strings) |
 ## Counting
 |  |
 | ------- |
