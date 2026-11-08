@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2574-left-and-right-sum-differences](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2574-left-and-right-sum-differences) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Hash Table
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1400-construct-k-palindrome-strings](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1400-construct-k-palindrome-strings) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Greedy
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2800-shortest-string-that-contains-three-strings) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Sorting
 |  |
 | ------- |
@@ -69,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0767-reorganize-string) |
 | [1400-construct-k-palindrome-strings](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1400-construct-k-palindrome-strings) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
