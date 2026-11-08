@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1405-longest-happy-string](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1405-longest-happy-string) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1754-largest-merge-of-two-strings](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1754-largest-merge-of-two-strings) |
+| [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2800-shortest-string-that-contains-three-strings) |
 ## Sorting
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1405-longest-happy-string](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1405-longest-happy-string) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1754-largest-merge-of-two-strings](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1754-largest-merge-of-two-strings) |
+| [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2800-shortest-string-that-contains-three-strings) |
 ## Counting
 |  |
