@@ -101,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2800-shortest-string-that-contains-three-strings) |
+## Math
+|  |
+| ------- |
+| [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 <!---LeetCode Topics End-->
