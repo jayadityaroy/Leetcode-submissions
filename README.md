@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1405-longest-happy-string](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1405-longest-happy-string) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1754-largest-merge-of-two-strings](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1754-largest-merge-of-two-strings) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2800-shortest-string-that-contains-three-strings) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2574-left-and-right-sum-differences](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2574-left-and-right-sum-differences) |
 ## Stack
