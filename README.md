@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0406-queue-reconstruction-by-height) |
 | [0846-hand-of-straights](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0846-hand-of-straights) |
 | [1053-previous-permutation-with-one-swap](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1053-previous-permutation-with-one-swap) |
+| [1094-car-pooling](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1094-car-pooling) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2559-count-vowel-strings-in-ranges) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0406-queue-reconstruction-by-height](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0406-queue-reconstruction-by-height) |
 | [0767-reorganize-string](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0846-hand-of-straights) |
+| [1094-car-pooling](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1094-car-pooling) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1433-check-if-a-string-can-break-another-string) |
 ## Two Pointers
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0767-reorganize-string](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0767-reorganize-string) |
+| [1094-car-pooling](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1094-car-pooling) |
 | [1405-longest-happy-string](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1405-longest-happy-string) |
 ## Design
 |  |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
+| [1094-car-pooling](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1094-car-pooling) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2574-left-and-right-sum-differences](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2574-left-and-right-sum-differences) |
@@ -120,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0406-queue-reconstruction-by-height) |
+## Simulation
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->
