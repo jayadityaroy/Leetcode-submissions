@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1433-check-if-a-string-can-break-another-string](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [1754-largest-merge-of-two-strings](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1754-largest-merge-of-two-strings) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2663-lexicographically-smallest-beautiful-string](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2663-lexicographically-smallest-beautiful-string) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2800-shortest-string-that-contains-three-strings) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1754-largest-merge-of-two-strings](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1754-largest-merge-of-two-strings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2559-count-vowel-strings-in-ranges) |
+| [2663-lexicographically-smallest-beautiful-string](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2663-lexicographically-smallest-beautiful-string) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2800-shortest-string-that-contains-three-strings) |
 ## Counting
