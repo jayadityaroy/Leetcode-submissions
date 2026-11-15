@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1400-construct-k-palindrome-strings](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1400-construct-k-palindrome-strings) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Greedy
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2663-lexicographically-smallest-beautiful-string](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2663-lexicographically-smallest-beautiful-string) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2800-shortest-string-that-contains-three-strings) |
+| [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Sorting
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1094-car-pooling) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1433-check-if-a-string-can-break-another-string) |
+| [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 ## Two Pointers
 |  |
 | ------- |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2663-lexicographically-smallest-beautiful-string](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2663-lexicographically-smallest-beautiful-string) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2800-shortest-string-that-contains-three-strings) |
+| [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 ## Counting
 |  |
 | ------- |
@@ -119,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
+| [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -131,4 +136,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1094-car-pooling](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1094-car-pooling) |
+## Combinatorics
+|  |
+| ------- |
+| [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 <!---LeetCode Topics End-->
