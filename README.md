@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0057-insert-interval](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0057-insert-interval) |
+| [0135-candy](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0135-candy) |
 | [0303-range-sum-query-immutable](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
 | [0406-queue-reconstruction-by-height](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0406-queue-reconstruction-by-height) |
 | [0846-hand-of-straights](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0846-hand-of-straights) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0316-remove-duplicate-letters) |
 | [0763-partition-labels](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0767-reorganize-string) |
