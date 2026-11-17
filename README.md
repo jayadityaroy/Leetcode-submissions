@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1053-previous-permutation-with-one-swap](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1053-previous-permutation-with-one-swap) |
 | [1094-car-pooling](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1094-car-pooling) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2559-count-vowel-strings-in-ranges) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
 | [1094-car-pooling](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1094-car-pooling) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2559-count-vowel-strings-in-ranges) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
+| [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 ## Binary Indexed Tree
 |  |
