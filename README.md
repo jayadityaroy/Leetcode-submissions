@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0057-insert-interval](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0057-insert-interval) |
 | [0135-candy](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0135-candy) |
+| [0238-product-of-array-except-self](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
 | [0406-queue-reconstruction-by-height](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0406-queue-reconstruction-by-height) |
 | [0846-hand-of-straights](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0846-hand-of-straights) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
 | [1094-car-pooling](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1094-car-pooling) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
