@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0135-candy) |
 | [0238-product-of-array-except-self](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0406-queue-reconstruction-by-height](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0406-queue-reconstruction-by-height) |
 | [0846-hand-of-straights](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0846-hand-of-straights) |
 | [1053-previous-permutation-with-one-swap](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1053-previous-permutation-with-one-swap) |
@@ -109,12 +110,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [1352-product-of-the-last-k-numbers](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [1094-car-pooling](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1094-car-pooling) |
 | [1352-product-of-the-last-k-numbers](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
@@ -180,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2731-movement-of-robots](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2731-movement-of-robots) |
+## Matrix
+|  |
+| ------- |
+| [0304-range-sum-query-2d-immutable](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
