@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2420-find-all-good-indices](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2420-find-all-good-indices) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2574-left-and-right-sum-differences](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2574-left-and-right-sum-differences) |
+| [2731-movement-of-robots](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2731-movement-of-robots) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Hash Table
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2171-removing-minimum-number-of-magic-beans) |
+| [2731-movement-of-robots](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2731-movement-of-robots) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 ## Two Pointers
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2483-minimum-penalty-for-a-shop](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2574-left-and-right-sum-differences](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2574-left-and-right-sum-differences) |
+| [2731-movement-of-robots](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2731-movement-of-robots) |
 ## Stack
 |  |
 | ------- |
@@ -173,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1352-product-of-the-last-k-numbers) |
+## Brainteaser
+|  |
+| ------- |
+| [2731-movement-of-robots](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2731-movement-of-robots) |
 <!---LeetCode Topics End-->
