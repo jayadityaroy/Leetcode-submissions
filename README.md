@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2420-find-all-good-indices](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2420-find-all-good-indices) |
+| [2536-increment-submatrices-by-one](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2536-increment-submatrices-by-one) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2574-left-and-right-sum-differences](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2574-left-and-right-sum-differences) |
 | [2731-movement-of-robots](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2731-movement-of-robots) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2420-find-all-good-indices](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2420-find-all-good-indices) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2536-increment-submatrices-by-one](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2536-increment-submatrices-by-one) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2574-left-and-right-sum-differences](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2574-left-and-right-sum-differences) |
 | [2731-movement-of-robots](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2731-movement-of-robots) |
@@ -187,4 +189,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
+| [2536-increment-submatrices-by-one](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2536-increment-submatrices-by-one) |
 <!---LeetCode Topics End-->
