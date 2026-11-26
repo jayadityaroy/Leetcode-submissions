@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1094-car-pooling) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1352-product-of-the-last-k-numbers](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1352-product-of-the-last-k-numbers) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1854-maximum-population-year](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1854-maximum-population-year) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2100-find-good-days-to-rob-the-bank) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [1094-car-pooling](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1094-car-pooling) |
 | [1352-product-of-the-last-k-numbers](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1352-product-of-the-last-k-numbers) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 | [1854-maximum-population-year](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1854-maximum-population-year) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2100-find-good-days-to-rob-the-bank) |
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0304-range-sum-query-2d-immutable) |
 | [2536-increment-submatrices-by-one](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2536-increment-submatrices-by-one) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
