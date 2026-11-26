@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1352-product-of-the-last-k-numbers](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1854-maximum-population-year](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1854-maximum-population-year) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0767-reorganize-string](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/0767-reorganize-string) |
 | [1400-construct-k-palindrome-strings](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1400-construct-k-palindrome-strings) |
+| [1854-maximum-population-year](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1854-maximum-population-year) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Heap (Priority Queue)
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1094-car-pooling](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1094-car-pooling) |
 | [1352-product-of-the-last-k-numbers](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [1854-maximum-population-year](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1854-maximum-population-year) |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2420-find-all-good-indices](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2420-find-all-good-indices) |
