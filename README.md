@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2420-find-all-good-indices](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2420-find-all-good-indices) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2536-increment-submatrices-by-one](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2536-increment-submatrices-by-one) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2574-left-and-right-sum-differences](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2574-left-and-right-sum-differences) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1754-largest-merge-of-two-strings](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1754-largest-merge-of-two-strings) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2663-lexicographically-smallest-beautiful-string](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2663-lexicographically-smallest-beautiful-string) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
 | [2800-shortest-string-that-contains-three-strings](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2800-shortest-string-that-contains-three-strings) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2171-removing-minimum-number-of-magic-beans) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2681-power-of-heroes](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2681-power-of-heroes) |
 | [2731-movement-of-robots](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2731-movement-of-robots) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
@@ -134,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2100-find-good-days-to-rob-the-bank](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2420-find-all-good-indices](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2420-find-all-good-indices) |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2536-increment-submatrices-by-one](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2536-increment-submatrices-by-one) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2559-count-vowel-strings-in-ranges) |
@@ -207,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Binary Search
+|  |
+| ------- |
+| [2448-minimum-cost-to-make-array-equal](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2448-minimum-cost-to-make-array-equal) |
 <!---LeetCode Topics End-->
