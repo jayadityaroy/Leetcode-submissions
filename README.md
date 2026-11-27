@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2536-increment-submatrices-by-one](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2536-increment-submatrices-by-one) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2574-left-and-right-sum-differences](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2574-left-and-right-sum-differences) |
+| [2681-power-of-heroes](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2681-power-of-heroes) |
 | [2731-movement-of-robots](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2731-movement-of-robots) |
 | [2848-points-that-intersect-with-cars](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2848-points-that-intersect-with-cars) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1433-check-if-a-string-can-break-another-string) |
 | [2171-removing-minimum-number-of-magic-beans](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2171-removing-minimum-number-of-magic-beans) |
+| [2681-power-of-heroes](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2681-power-of-heroes) |
 | [2731-movement-of-robots](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2731-movement-of-robots) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 ## Two Pointers
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2536-increment-submatrices-by-one](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2536-increment-submatrices-by-one) |
 | [2559-count-vowel-strings-in-ranges](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2559-count-vowel-strings-in-ranges) |
 | [2574-left-and-right-sum-differences](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2574-left-and-right-sum-differences) |
+| [2681-power-of-heroes](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2681-power-of-heroes) |
 | [2731-movement-of-robots](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2731-movement-of-robots) |
 | [2848-points-that-intersect-with-cars](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2848-points-that-intersect-with-cars) |
 ## Stack
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
 | [1352-product-of-the-last-k-numbers](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+| [2681-power-of-heroes](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2681-power-of-heroes) |
 | [2842-count-k-subsequences-of-a-string-with-maximum-beauty](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2842-count-k-subsequences-of-a-string-with-maximum-beauty) |
 ## Binary Indexed Tree
 |  |
@@ -185,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2100-find-good-days-to-rob-the-bank](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2100-find-good-days-to-rob-the-bank) |
 | [2420-find-all-good-indices](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2420-find-all-good-indices) |
+| [2681-power-of-heroes](https://github.com/jayadityaroy/Leetcode-submissions/tree/master/2681-power-of-heroes) |
 ## Data Stream
 |  |
 | ------- |
